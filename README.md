@@ -1,7 +1,7 @@
 <h2>Overview</h2>
 PEStudio is a tool that performs static analysis and executable file properties without running the files.
 It offers a variety of information about a file without putting users in danger of execution, which aids in identifying executables that seem suspect or harmful.
-In the following lab, we perform a static investigation on the suspicious binary file using this tool.
+In the following lab, I  performed a static investigation on the suspicious binary file using this tool.
 
 
 
